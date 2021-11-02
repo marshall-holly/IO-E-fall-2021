@@ -1,3 +1,5 @@
+//Walsh, K (2021) sketch.js (Source code].
+
 // Copyright (c) 2019 ml5
 //
 // This software is released under the MIT License.
